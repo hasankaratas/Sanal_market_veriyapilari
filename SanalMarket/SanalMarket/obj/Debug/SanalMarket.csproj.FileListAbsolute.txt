@@ -1,0 +1,153 @@
+C:\Users\maydn\Desktop\SanalMarket\SanalMarket\bin\Debug\SanalMarket.exe.config
+C:\Users\maydn\Desktop\SanalMarket\SanalMarket\bin\Debug\SanalMarket.exe
+C:\Users\maydn\Desktop\SanalMarket\SanalMarket\bin\Debug\SanalMarket.pdb
+C:\Users\maydn\Desktop\SanalMarket\SanalMarket\obj\Debug\SanalMarket.csprojResolveAssemblyReference.cache
+C:\Users\maydn\Desktop\SanalMarket\SanalMarket\obj\Debug\SanalMarket.Form1.resources
+C:\Users\maydn\Desktop\SanalMarket\SanalMarket\obj\Debug\SanalMarket.Properties.Resources.resources
+C:\Users\maydn\Desktop\SanalMarket\SanalMarket\obj\Debug\SanalMarket.csproj.GenerateResource.Cache
+C:\Users\maydn\Desktop\SanalMarket\SanalMarket\obj\Debug\SanalMarket.csproj.CoreCompileInputs.cache
+C:\Users\maydn\Desktop\SanalMarket\SanalMarket\obj\Debug\SanalMarket.exe
+C:\Users\maydn\Desktop\SanalMarket\SanalMarket\obj\Debug\SanalMarket.pdb
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\SanalMarket.exe.config
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\SanalMarket.exe
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\SanalMarket.pdb
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\obj\Debug\SanalMarket.csprojResolveAssemblyReference.cache
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\obj\Debug\SanalMarket.Form1.resources
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\obj\Debug\SanalMarket.Properties.Resources.resources
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\obj\Debug\SanalMarket.csproj.GenerateResource.Cache
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\obj\Debug\SanalMarket.csproj.CoreCompileInputs.cache
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\obj\Debug\SanalMarket.exe
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\obj\Debug\SanalMarket.pdb
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\obj\Debug\SanalMarket.Form2.resources
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\obj\Debug\SanalMarket.exe.licenses
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket\SanalMarket\obj\Debug\SanalMarket.Form3.resources
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\SanalMarket.exe.config
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\SanalMarket.exe
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\SanalMarket.pdb
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\obj\Debug\SanalMarket.csprojResolveAssemblyReference.cache
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\obj\Debug\SanalMarket.Form1.resources
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\obj\Debug\SanalMarket.Form2.resources
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\obj\Debug\SanalMarket.Form3.resources
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\obj\Debug\SanalMarket.Properties.Resources.resources
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\obj\Debug\SanalMarket.csproj.GenerateResource.Cache
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\obj\Debug\SanalMarket.exe.licenses
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\obj\Debug\SanalMarket.csproj.CoreCompileInputs.cache
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\obj\Debug\SanalMarket.exe
+C:\Users\SERBAY\Desktop\SanalMarket HASHLİ - Kopya\SanalMarket\obj\Debug\SanalMarket.pdb
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\SanalMarket.exe.config
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\SanalMarket.exe
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\SanalMarket.pdb
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\obj\Debug\SanalMarket.csprojAssemblyReference.cache
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\obj\Debug\SanalMarket.Form1.resources
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\obj\Debug\SanalMarket.Form2.resources
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\obj\Debug\SanalMarket.Form3.resources
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\obj\Debug\SanalMarket.Properties.Resources.resources
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\obj\Debug\SanalMarket.csproj.GenerateResource.cache
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\obj\Debug\SanalMarket.exe.licenses
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\obj\Debug\SanalMarket.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\obj\Debug\SanalMarket.csproj.CopyComplete
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\obj\Debug\SanalMarket.exe
+C:\Users\hasan\Desktop\Ders Notları\Geçmiş Dönemler\Veri Yapıları\Ödevler\Proje 2\SanalMarket\SanalMarket\obj\Debug\SanalMarket.pdb
